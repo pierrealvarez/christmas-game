@@ -17,11 +17,11 @@ To participate create branch with your name and merge master branch to yours eve
 1. You would receive feedback if something is not correct.
 1. Please do not cheat - it's just a fun game.
 
-## Winners!!!
+## Prizes
 Rest of the team needs to add sufficient title prefix before asking winner for something tille the end of the year.
 You can win one below tiles:
-1. `Master` for scoring the most points in this game (max 48 points).
-1. `Persistent servant` for a person who commit algorithms everyday (max 24 points - one per day)
+1. `Winner` for scoring the most points in this game (max 48 points).
+1. `Persistent` for a person who commit algorithms everyday (max 24 points - one per day)
 1. `Efficient` for a person who commit most efficient algorithms (max 24 points - one per most efficient algorightm during the day only for one person)
 
-Let's say Pooja won the Christmas game then you need to title him per Master Konrad till the end of the year.
+Let's say Pooja won the Christmas game then you need to title him per Winner Pooja till the end of the year.
