@@ -20,8 +20,8 @@ To participate create branch with your name and merge master branch to yours eve
 ## Prizes
 Rest of the team needs to add sufficient title prefix before asking winner for something tille the end of the year.
 You can win one below tiles:
-1. `Winner` for scoring the most points in this game (max 48 points).
-1. `Persistent` for a person who commit algorithms everyday (max 24 points - one per day)
-1. `Efficient` for a person who commit most efficient algorithms (max 24 points - one per most efficient algorightm during the day only for one person)
+1. `Winner` for scoring the most points in this game (max 48 points). (and 50 EUR Amazon coupon)
+1. `Persistent` for a person who commit algorithms everyday (max 24 points - one per day) (and 30 EUR Amazon coupon)
+1. `Efficient` for a person who commit most efficient algorithms (max 24 points - one per most efficient algorightm during the day only for one person) (and 20 EUR Amazon coupon)
 
 Let's say Pooja won the Christmas game then you need to title him per Winner Pooja till the end of the year.
