@@ -24,4 +24,4 @@ You can win one below tiles:
 1. `Persistent` for a person who commit algorithms everyday (max 24 points - one per day) (and 30 EUR Amazon coupon)
 1. `Efficient` for a person who commit most efficient algorithms (max 24 points - one per most efficient algorightm during the day only for one person) (and 20 EUR Amazon coupon)
 
-Let's say Pooja won the Christmas game then you need to title him per Winner Pooja till the end of the year.
+Let's say Pooja won the Christmas game then you need to title her per Winner Pooja till the end of the year.
