@@ -2,7 +2,7 @@
 Christmas is coming so the game too. Let's see who is most PERSISTENT and EFFICIENT coder!
 This game is going to improve our coding skills a little (or just refresh algorithms).
 
-Every single day new task will be revealed till Christmas Eve. You can find task description in directory with day's number. The goal is to write algorithm (maybe even most efficient one) which solves given problem (sample is in `0 example` directory. 
+Every single day new task will be revealed till Christmas Eve. You can find task description in directory with day's number. The goal is to write algorithm (maybe even most efficient one) which solves given problem (sample is in `0` directory). 
 
 To participate create branch with your name and merge master branch to yours every day, because new task appear every day.
 
